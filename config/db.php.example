@@ -1,0 +1,3 @@
+$dbname = 'projet_slam';
+$user   = 'root';
+$pass   = '';
